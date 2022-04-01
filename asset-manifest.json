@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/is-buildpack-released-yet/static/css/main.073c9b0a.css",
-    "main.js": "/is-buildpack-released-yet/static/js/main.60a38b03.js",
+    "main.js": "/is-buildpack-released-yet/static/js/main.ae773215.js",
     "index.html": "/is-buildpack-released-yet/index.html",
     "main.073c9b0a.css.map": "/is-buildpack-released-yet/static/css/main.073c9b0a.css.map",
-    "main.60a38b03.js.map": "/is-buildpack-released-yet/static/js/main.60a38b03.js.map"
+    "main.ae773215.js.map": "/is-buildpack-released-yet/static/js/main.ae773215.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.60a38b03.js"
+    "static/js/main.ae773215.js"
   ]
 }
