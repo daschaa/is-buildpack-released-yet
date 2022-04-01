@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const RELEASE_TO_FILTER = '4.47';
+const RELEASE_TO_FILTER = '4.49';
 
 const App = () => {
   
